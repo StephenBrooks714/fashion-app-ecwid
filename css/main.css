@@ -1,0 +1,33 @@
+nav {
+	padding-top: 17px;
+	background-color: rgb(247, 247, 247);
+	background-size: cover fixed center center;
+	background-position: center; 
+	background-repeat: none;
+	font-size: 20px;
+	width: 100%;
+}
+
+ul {
+	display: flex;
+	justify-content: center;
+}
+
+li {
+	list-style: none;
+}
+
+nav > ul > li > a {
+	text-decoration: none;
+	margin-left: 11px;
+	color: #242323;
+}
+
+.img-fluid {
+	width: 90%;
+	max-height: 615px;
+}
+
+.text-center {
+	text-align: center;
+}
